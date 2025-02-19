@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Vivo en Cajica, pero naci en Bogota");
         System.out.println("Me gusta Jugar Futbol, videojuegos y compartir con mis conocidos.");
 
+        System.out.println("Tengo un gato llamado Zeus");
+
     }
 }
